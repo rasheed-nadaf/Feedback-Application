@@ -70,7 +70,6 @@ cd feedback-app
 
 ## 🌍 Deployed Links
 
-- **Frontend**: [ https://feedback-frontend-ilos491r7-rasheednadaf4-gmailcoms-projects.vercel.app](https://frontend-url.vercel.app)
-- **Backend**: [ https://feedback-app-backend-mpm6tu037-rasheednadaf4-gmailcoms-projects.vercel.app](https://backend-url.vercel.app)
-
+- Frontend: https://feedback-frontend-ilos491r7-rasheednadaf4-gmailcoms-projects.vercel.app
+- Backend: https://feedback-app-backend-mpm6tu037-rasheednadaf4-gmailcoms-projects.vercel.app
 
