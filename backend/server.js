@@ -9,6 +9,11 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5000;
 
+
+app.get("/", (req, res) => {
+    res.send("Backend is running!");
+});
+
 // POST: Add Feedback
 app.post("/feedback", async (req, res) => {
     const { name, email, message } = req.body;
